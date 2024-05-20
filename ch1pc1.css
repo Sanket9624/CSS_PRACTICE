@@ -1,0 +1,27 @@
+#head1{
+            background-color: beige;
+            color: red;
+            padding: 0;
+            margin: 5px;
+
+}
+.sky{
+            color: white;
+            background-color: black;
+            padding: 0;
+            margin: 5px;
+}
+.color{
+            color:aqua;
+            
+}
+.bg{
+            background-color: brown;
+
+}
+.padding{
+            padding: 0;
+}
+.margin{
+            margin: 5px;
+}
